@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: Verify Human Freyon99
 
 on:
   workflow_dispatch:
