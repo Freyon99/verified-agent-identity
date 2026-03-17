@@ -1,6 +1,4 @@
-on:
-  workflow_dispatch:
-    inputs:
+{
       agent_name:
         description: 'Freyon99'
         required: true
@@ -9,3 +7,4 @@ on:
         description: 'Freyon99'
         required: true
         default: 'Freyon99 AI Agent'
+}
